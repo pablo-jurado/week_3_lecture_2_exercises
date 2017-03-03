@@ -8,7 +8,7 @@ a. 2rem
 
 b. 2pc
 
-c. 3em
+`answer c. 3em`
 
 d. 16px
 
@@ -16,7 +16,7 @@ d. 16px
 
 2.Which unit is relative to the base font?
 
-a. 1rem
+`answer a. 1rem`
 
 b. 16pt
 
@@ -30,19 +30,10 @@ d. 2em
 
 a. ```@media screen and (max-width: 720px) { ... }```
 
-b. ```@media screen and (min-width: 720px) { ... }```
+*answer b. ```@media screen and (min-width: 720px) { ... }```*
 
-c. ```@media screen and (max-width: 1024px) { ... }```
+*answer c. ```@media screen and (max-width: 1024px) { ... }```*
 
-d. ```@media screen and (min-width: 720px) and (max-width: 1024px) { ... }```
+*answer d. ```@media screen and (min-width: 720px) and (max-width: 1024px) { ... }```*
 
 ---
-
-4.Defining the basic, most universally accessible features first, followed by providing more advanced functionality to the browsers who use it is called:
-a. graceful degradation
-
-b. content strategy
-
-c. upward momentum
-
-d. progressive enhancement
