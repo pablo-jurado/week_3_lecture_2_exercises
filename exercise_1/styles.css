@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  background: lightgrey;
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.box {
+  background: tomato;
+  border: 5px solid #5d5656;
+  display: inline-block;
+  height: 350px;
+  margin: 1%;
+  width: 50%;
+}
