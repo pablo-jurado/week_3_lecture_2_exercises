@@ -1,0 +1,13 @@
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 3rem; /*code here*/
+  line-height: 3.5rem; /*code here*/
+}
+
+p {
+  font-size: 1rem; /*code here*/
+  line-height: 1.5rem; /*code here*/
+}
