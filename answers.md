@@ -37,12 +37,3 @@ a. ```@media screen and (max-width: 720px) { ... }```
 *answer d. ```@media screen and (min-width: 720px) and (max-width: 1024px) { ... }```*
 
 ---
-
-4.Defining the basic, most universally accessible features first, followed by providing more advanced functionality to the browsers who use it is called:
-a. graceful degradation
-
-b. content strategy
-
-c. upward momentum
-
-``` answer d. progressive enhancement```
